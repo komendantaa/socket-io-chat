@@ -1,1 +1,1 @@
-# socket-io-chat
+# Chat based on socket.io
